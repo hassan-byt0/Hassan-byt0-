@@ -40,7 +40,7 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrapbs.png'> </a>
 &nbsp;
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/jquery.png'> </a>
@@ -49,7 +49,7 @@
 
 
 <h2>
-   Softwares &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/software.gif" width = 32px>
+   Softwares &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/computer.gif" width = 32px>
 </h2>
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png'> </a>
