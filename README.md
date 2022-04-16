@@ -40,19 +40,19 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/jquery-10-1175155.png'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/jquery.png'> </a>
 
 <h2>
    Softwares &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/canva.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobepremierepro.png'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobephotoshop.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobeillustrator.png'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobepremierepro.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png'> </a>
 &nbsp;
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
