@@ -54,6 +54,12 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png'> </a>
 &nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/matlab.png'> </a>
+&nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ltspice.png'> </a>
+&nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png'> </a>
+&nbsp;
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
