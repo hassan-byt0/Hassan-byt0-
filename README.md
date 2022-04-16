@@ -19,9 +19,9 @@
 
 - 💬 Talk to me about Graphic Design, Full Stack Development, Competitive Coding, Data Science 
     
-- 📫 How to reach me **sharathpai107@gmail.com**
+- 📫 How to reach me: **sharathpai107@gmail.com**
 
-- ⚡ Fun fact **I'm bad at explaining stuff. I can help you with roadmaps!**
+- ⚡ Fun fact: **I more efficient in explaining through roadmaps!**
 
 
 <h2>
