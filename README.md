@@ -74,7 +74,7 @@
 &nbsp;
 <a href = 'https://www.instagram/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 &nbsp;
-<a href = 'https://www.swiftundergrads.ga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/website.png"/></a>
+<a href = 'https://www.swiftundergrads.ga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
 
 <br>
 
