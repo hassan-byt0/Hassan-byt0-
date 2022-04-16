@@ -11,7 +11,7 @@
 
 - 👨🏻‍🎓 I’m currently studying in S.Y BTech in Electronics and Telecommunication Engineering
     
-- 💎 I’m currently working as a Graphic Design Freelancer
+- 💎 I’m currently working as a Graphic Designing Freelancer
 
 - 🌱 I’m currently learning DSA and Machine Learning
 
