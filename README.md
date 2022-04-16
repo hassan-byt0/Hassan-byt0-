@@ -64,13 +64,17 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png'> </a>
 &nbsp;
+
+
 <h2>
-    Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+   Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
 
 <a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;
 <a href = 'https://www.instagram/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+&nbsp;
+<a href = 'https://www.swiftundergrads.ga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/website.png"/></a>
 
 <br>
 
