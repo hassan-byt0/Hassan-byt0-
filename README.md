@@ -51,7 +51,7 @@
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/boostrap.svg'> </a>
+<a> <img width ='32px' src ='https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg'> </a>
 
 <a> <img width ='32px' src ='https://iconscout.com/icon/jquery-10'> </a>
 <h2>
