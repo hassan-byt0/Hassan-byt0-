@@ -40,7 +40,7 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://github.com/simple-icons/simple-icons/blob/develop/icons/adobeillustrator.svg'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/adobeillustrator.svg'> </a>
 <h2>
     Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
