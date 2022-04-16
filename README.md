@@ -21,7 +21,7 @@
     
 - 📫 How to reach me: **sharathpai107@gmail.com**
 
-- ⚡ Fun fact: **I more efficient in explaining through roadmaps!**
+- ⚡ Fun fact: **I love to guide rather than teach!😉**
 
 
 <h2>
