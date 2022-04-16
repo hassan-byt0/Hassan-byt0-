@@ -2,9 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sharath Pai!</h1>
 <h3 align="center">Passionate about exploring the software industry!!</h3>
 
-- 📫 How to reach me **sharathpai107@gmail.com**
-
-- ⚡ Fun fact **I'm bad at explaining stuff. I can help you with roadmaps!**
 
 <h1>
     Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
@@ -13,7 +10,7 @@
 <p align='center'>
 </p>
 
-[![Github](https://img.shields.io/github/followers/sahilbansal17?label=Follow&style=social)](https://github.com/Sharath1036)
+[![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
 
 <div size='20px'>
     Hi! My name is Sahil. Thank You for taking the time to view my GitHub Profile :smile:
@@ -23,13 +20,20 @@
     About Me
 </h2>
 
-- 💎 I’m currently working on Ruby on Rails, React @ work
+- 👨🏻‍🎓 I’m currently studying in S.Y BTech in Electronics and Telecommunication Engineering
+    
+- 💎 I’m currently working as a Graphic Design Freelancer
 
-- 🌱 I’m currently learning Algorithms & Low Level Design (LLD)
+- 🌱 I’m currently learning DSA and Machine Learning
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
-- 💬 Talk to me about Competitive Coding, DSA, OOP, C++, Python, Ruby, JS
+- 💬 Talk to me about Graphic Design, Full Stack Development, Competitive Coding, Data Science 
+    
+- 📫 How to reach me **sharathpai107@gmail.com**
+
+- ⚡ Fun fact **I'm bad at explaining stuff. I can help you with roadmaps!**
+
 
 <h2>
     Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
