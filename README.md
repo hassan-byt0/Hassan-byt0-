@@ -1,15 +1,4 @@
 
-<h1 align="center">Hi 👋, I'm Sharath Pai!</h1>
-<h3 align="center">Passionate about exploring the software industry!!</h3>
-
-
-<h1>
-    Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
-</h1>
-
-<p align='center'>
-</p>
-
 [![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
 
 <h1 align="center">Hi 👋, I'm Sharath Pai!</h1>
@@ -40,7 +29,7 @@
 </h2>
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/c.svg'> </a>
-&nbsp;    
+&nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/cpp.svg'> </a>
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
