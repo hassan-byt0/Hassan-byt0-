@@ -45,6 +45,8 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/jquery.png'> </a>
 &nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png'> </a>
+&nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/dsalgo.png'> </a>
 &nbsp;
 
@@ -75,7 +77,7 @@
 
 <a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;
-<a href = 'https://www.instagram/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://www.instagram.com/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 &nbsp;
 <a href = 'https://www.swiftundergrads.ga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
 
