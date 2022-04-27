@@ -52,7 +52,7 @@
 
 
 <h2>
-   Softwares &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
+   Softwares & Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
 </h2>
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png'> </a>
