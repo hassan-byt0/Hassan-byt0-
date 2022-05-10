@@ -77,6 +77,8 @@
 
 <a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;
+<a href = 'https://www.https://twitter.com/Sharath1072'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/twitter.png"/></a>
+&nbsp;
 <a href = 'https://www.instagram.com/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 &nbsp;
 <a href = 'https://www.snapchat.com/add/sharathpai1007?share_id=I4F_akzXfJw&locale=en-GB'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/snapchat.png"/></a>
