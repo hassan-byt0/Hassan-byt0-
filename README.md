@@ -47,14 +47,12 @@
 &nbsp;
 
 <h2>
-   Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
+   Operating Systems &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/operatingsystems.gif" width = 32px>
 </h2>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ms-office.png'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/windows.png'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png'> </a>
-&nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobepremierepro.png'> </a>
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/linux.png'> </a>
 &nbsp;
 
 <h2>
