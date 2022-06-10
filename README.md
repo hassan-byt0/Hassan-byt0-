@@ -47,7 +47,7 @@
 &nbsp;
 
 <h2>
-   Operating Systems &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/operatingsystems.gif" width = 32px>
+   Operating Systems &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/operating-systems.gif" width = 32px>
 </h2>
 
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/windows.png'> </a>
