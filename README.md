@@ -9,11 +9,11 @@
     About Me
 </h2>
 
-- 👨🏻‍🎓 I’m currently studying in S.Y BTech in Electronics and Telecommunication Engineering
+- 👨🏻‍🎓 I’m currently studying in S.Y BTech (Electronics and Telecommunication Engineering)
     
 - 💎 I’m currently working as a Graphic Designing Freelancer
 
-- 🌱 I’m currently learning DSA and Machine Learning
+- 🌱 I’m currently learning DSA
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
