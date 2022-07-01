@@ -13,7 +13,7 @@
     
 - 💎 I’m currently working as a Graphic Designing Freelancer
 
-- 🌱 I’m currently learning DSA
+- 🌱 I’m currently learning DSA and Blockchain Development
 
 - 👯 I’m looking to collaborate on Open Source Projects
 
@@ -46,6 +46,8 @@
 <a> <img width ='40px' src= 'https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/sqlite.png'> </a>
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/numpy.png'> </a>
+&nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png'> </a>
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png'> </a>
 &nbsp;
