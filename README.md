@@ -81,6 +81,8 @@
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png'> </a>
 &nbsp;
+<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ethereum.png'> </a>
+&nbsp;
 
 
 <h2>
