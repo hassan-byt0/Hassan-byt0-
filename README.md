@@ -35,8 +35,6 @@
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png'> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/dsalgo.png'> </a>
-&nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png'> </a>
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png'> </a>
