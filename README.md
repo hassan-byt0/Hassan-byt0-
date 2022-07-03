@@ -33,7 +33,7 @@
 &nbsp;
 <a> <img src = "https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png'> </a>
+<a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/c-programming.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
