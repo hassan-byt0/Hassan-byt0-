@@ -9,19 +9,6 @@
     About Me
 </h2>
 
-- 👨🏻‍🎓 I’m currently studying in S.Y BTech (Electronics and Telecommunication)
-    
-- 💎 I’m currently working as a Graphic Designing Freelancer
-
-- 🌱 I’m currently learning DSA and Blockchain Development
-
-- 👯 I’m looking to collaborate on Open Source Projects
-
-- 💬 Talk to me about Graphic Design, Full Stack Development, Competitive Coding, Data Science 
-    
-- 📫 How to reach me: **sharathpai107@gmail.com**
-
-- ⚡ Fun fact: **I love to guide rather than teach!😉**
 I'm an aspiring developer from India who loves exploring various development fields and working on them.
 
 I'm currently working as a Graphic Designer in a couple of socities by helping them with all the digital creatives.
@@ -30,7 +17,7 @@ My programming career kickstarted in Computer Science in Junior College and was 
 
 Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design, Development domains, Competitive Coding and Artificial Intelligence. Feel free to reach out to me through any of my social handles mentioned below!
 
-
+Fun Fact: I love to guide rather than teaching! 😉
 
 
 
