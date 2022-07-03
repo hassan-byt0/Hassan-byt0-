@@ -60,7 +60,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 
 <h2>
-   Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
+   Softwares & Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
 </h2>
 
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ms-office.png" alt="react" width="40" height="40"/> </a>
