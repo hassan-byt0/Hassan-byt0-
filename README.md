@@ -9,7 +9,7 @@
     About Me
 </h2>
 
-I'm an aspiring developer from India who loves exploring various development fields and working on them.
+I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them.
 
 I'm currently working as a Graphic Designer in a couple of socities by helping them with all the digital creatives.
 
