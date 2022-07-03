@@ -9,7 +9,7 @@
     About Me
 </h2>
 
-- 👨🏻‍🎓 I’m currently studying in S.Y BTech (Electronics and Telecommunication Engineering)
+- 👨🏻‍🎓 I’m currently studying in S.Y BTech (Electronics and Telecommunication)
     
 - 💎 I’m currently working as a Graphic Designing Freelancer
 
@@ -22,6 +22,16 @@
 - 📫 How to reach me: **sharathpai107@gmail.com**
 
 - ⚡ Fun fact: **I love to guide rather than teach!😉**
+I'm an aspiring developer from India who loves exploring various development fields and working on them.
+
+I'm currently working as a Graphic Designer in a couple of socities by helping them with all the digital creatives.
+
+My programming career kickstarted in Computer Science in Junior College and was a pass out in the batch 2020. I'm currently pursuing my Bachelor of Technology in Electronics and Telecommunication from D.J. Sangvhi College of Engineering, graudating in May 2024 and currently exploring the domain of Blockchain Technology and also learning DSA for igniting the spark of Competitive Coding.
+
+Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design, Development domains, Competitive Coding and Artificial Intelligence. Feel free to reach out to me through any of my social handles mentioned below!
+
+
+
 
 
 <h2>
