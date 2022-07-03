@@ -79,7 +79,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ethereum.png' alt="react" width="40" height="30"/> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ethereum.png' alt="react" width="30" height="40"/> </a>
 &nbsp;
 
 
