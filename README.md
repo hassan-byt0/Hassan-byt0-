@@ -1,21 +1,26 @@
 
-[![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
+
 
 <h1 align="center">Hi 👋, I'm Sharath Pai!</h1>
 <h3 align="center">Passionate about exploring the software industry!!</h3>
 
+<p align='center'>
+  <a href='mailto:sharathpai107@gmail.com' target="_blank">
+      <img src='https://img.shields.io/badge/-sharathpai107@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sharathpai107.com'>
+  </a>
+ 
+
+[![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
 
 <h2>
     About Me
 </h2>
 
-I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them.
+I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them. i'm also a graphic designer currently working with a couple of socities by helping them with all the digital creatives.
 
-I'm currently working as a Graphic Designer in a couple of socities by helping them with all the digital creatives.
+I'm currently pursuing my Bachelor of Technology in Electronics and Telecommunication from D.J. Sangvhi College of Engineering, graudating in May 2024 and currently exploring the domain of Blockchain Technology and also learning DSA for igniting the spark of Competitive Coding.
 
-My programming career kickstarted with Bifocal in Computer Science in Junior College and was a pass out in the batch 2020. I'm currently pursuing my Bachelor of Technology in Electronics and Telecommunication from D.J. Sangvhi College of Engineering, graudating in May 2024 and currently exploring the domain of Blockchain Technology and also learning DSA for igniting the spark of Competitive Coding.
-
-Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design, Development domains, Competitive Coding and Artificial Intelligence. Feel free to reach out to me through any of my social handles mentioned below!
+Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design, Development Domains and Artificial Intelligence. Feel free to reach out to me through any of my social handles mentioned!
 
 Fun Fact: I love to guide rather than teaching! 😉
 
