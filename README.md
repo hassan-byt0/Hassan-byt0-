@@ -45,7 +45,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/sqlite.png" alt="react" width="70" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/numpy.png" alt="react" width="50" height="50"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/numpy.png" align="center" alt="react" width="50" height="50"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
