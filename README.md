@@ -29,7 +29,7 @@
 </h2>
 
 
-<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
+<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png'> </a>
 &nbsp;
