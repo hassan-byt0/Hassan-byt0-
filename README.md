@@ -45,7 +45,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/sqlite.png" alt="react" width="70" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/numpy.png" alt="react" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/numpy.png" alt="react" width="50" height="50"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
@@ -56,9 +56,7 @@ Fun Fact: I love to guide rather than teaching! 😉
    Operating Systems &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/operating-systems.gif" width = 32px>
 </h2>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/windows.png'> </a>
-&nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/linux.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/windows.png' width = "40" height= "40" alt="react"> </a>
 &nbsp;
 
 <h2>
@@ -97,7 +95,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href = 'https://www.swiftundergrads.ga'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
 &nbsp;
-<a href = 'https://www.youtube.com/channel/UCSdthXAKgdyz8l5HKeIV28Q'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/youtube.png"/></a>
+<a href = 'https://www.youtube.com/channel/UCSdthXAKgdyz8l5HKeIV28Q'> <img width = "50" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/youtube.png"/></a>
 &nbsp;
 <br>
 
