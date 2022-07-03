@@ -16,7 +16,7 @@
     About Me
 </h2>
 
-I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them. i'm also a graphic designer currently working with a couple of socities by helping them with all the digital creatives.
+I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them. I'm also a graphic designer currently working with a couple of socities by helping them with all the digital creatives.
 
 I'm currently pursuing my Bachelor of Technology in Electronics and Telecommunication from D.J. Sanghvi College of Engineering, graudating in May 2024 and currently exploring the domain of Blockchain Technology and also learning DSA for igniting the spark of Competitive Coding.
 
