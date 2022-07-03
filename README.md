@@ -33,7 +33,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 <a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src = "https://seeklogo.com/images/C/c-logo-43CE78FF9C-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
+<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
@@ -65,23 +65,23 @@ Fun Fact: I love to guide rather than teaching! 😉
    Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
 </h2>
 
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ms-office.png'> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ms-office.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobepremierepro.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobepremierepro.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobeillustrator.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobeillustrator.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/matlab.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/matlab.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ltspice.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ltspice.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img width ='32px' src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ethereum.png'> </a>
+<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ethereum.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
 
 
@@ -89,15 +89,15 @@ Fun Fact: I love to guide rather than teaching! 😉
    Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 </h2>
 
-<a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
+<a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
 &nbsp;
-<a href = 'https://www.twitter.com/Sharath1072'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/twitter.png"/></a>
+<a href = 'https://www.twitter.com/Sharath1072'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/twitter.png"/></a>
 &nbsp;
-<a href = 'https://www.instagram.com/sharath_1007'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
+<a href = 'https://www.instagram.com/sharath_1007'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
 &nbsp;
-<a href = 'https://www.swiftundergrads.ga'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
+<a href = 'https://www.swiftundergrads.ga'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
 &nbsp;
-<a href = 'https://www.youtube.com/channel/UCSdthXAKgdyz8l5HKeIV28Q'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/youtube.png"/></a>
+<a href = 'https://www.youtube.com/channel/UCSdthXAKgdyz8l5HKeIV28Q'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/youtube.png"/></a>
 &nbsp;
 <br>
 
