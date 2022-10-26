@@ -18,7 +18,7 @@
 
 I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them. I'm also a graphic designer currently working with a couple of socities by helping them with all the digital creatives.
 
-I'm currently pursuing my Bachelor of Technology in Electronics and Telecommunication from D.J. Sanghvi College of Engineering, graduating in May 2024 and currently exploring the domain of cross platform app development.
+I'm currently pursuing my BTech in Electronics and Telecommunication from D.J. Sanghvi College of Engineering, graduating in May 2024 and currently exploring the domain of cross platform app development.
 
 Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design, Development Domains and Artificial Intelligence. Feel free to reach out to me through any of my social handles mentioned!
 
