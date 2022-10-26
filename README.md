@@ -39,11 +39,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/jquery.png" alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/sqlite.png" alt="react" width="70" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mysql.png" alt="react" width="70" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
