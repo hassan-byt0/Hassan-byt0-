@@ -37,8 +37,6 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<!--- <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-&nbsp; --->
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" alt="react" width="50" height="40"/> </a>
 &nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" alt="react" width="40" height="40"/> </a>
