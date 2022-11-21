@@ -20,7 +20,7 @@ I'm an aspiring developer from India who loves exploring and gaining knowledge r
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering, graduating in May 2024 and currently exploring the domain of cross platform app development.
 
-Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design and Software Development Domains. Feel free to reach out to me through any of my social handles mentioned!
+Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
 Fun Fact: I love to guide rather than teaching! 😉
 
