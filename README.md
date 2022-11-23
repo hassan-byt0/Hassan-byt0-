@@ -8,6 +8,12 @@
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
       <img src='https://img.shields.io/badge/-sharathpai107@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:sharathpai107.com'>
   </a>
+  
+ 
+  <a href='https://www.linkedin.com/in/sharathpai107/' target="_blank">
+      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+  </a>
+
  
 
 [![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
@@ -26,7 +32,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 
 
-<h2>
+<h2 align = 'center'>
    Technical Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
