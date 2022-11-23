@@ -11,7 +11,7 @@
   
  
   <a href='https://www.linkedin.com/in/sharathpai107/' target="_blank">
-      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sohamdave08/'>
+      <img src='https://img.shields.io/badge/-SohamDave-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharathpai107/'>
   </a>
 
  
@@ -36,7 +36,7 @@ Fun Fact: I love to guide rather than teaching! 😉
    Technical Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
-
+<p align = 'center'>
 <a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" alt="react" width="40" height="40"/> </a>
@@ -59,7 +59,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-
+</p>
 
 <h2>
    Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
