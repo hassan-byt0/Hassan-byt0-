@@ -71,10 +71,6 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/matlab.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ltspice.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
 <a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png' alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png' alt="react" width="40" height="40"/> </a>
