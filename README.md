@@ -60,3 +60,11 @@ Fun Fact: I love to guide rather than teaching! 😉
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 </p>
+
+<h2 align = 'center'>
+    Github Stats &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-generator/main/github-cat.gif" width = 32px>
+</h2>
+
+| ![Sharath's Github Stats](https://github-readme-stats.vercel.app/api?username=Sharath1036&show_icons=true&theme=radical) | ![Sharath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&theme=radical) |
+|---|---|
+
