@@ -49,31 +49,9 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-
-<h2>
-   Operating Systems &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/operating-systems.gif" width = 32px>
-</h2>
-
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/windows.png' width = "40" height= "40" alt="react"> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-
-<h2>
-   Softwares & Tools &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/androidbot.gif" width = 32px>
-</h2>
-
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/ms-office.png" alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobephotoshop.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobepremierepro.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/adobeillustrator.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/canva.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png' alt="react" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ='https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png' alt="react" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 
 
