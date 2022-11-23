@@ -33,7 +33,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 
 <h2 align = 'center'>
-   Technical Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+   Tech Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
 <p align = 'center'>
@@ -60,20 +60,3 @@ Fun Fact: I love to guide rather than teaching! 😉
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/android-studio.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 </p>
-
-<h2>
-   Socials<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</h2>
-
-<a href = 'https://www.linkedin.com/in/sharathpai107'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>
-&nbsp;
-<a href = 'https://www.twitter.com/Sharath1072'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/twitter.png"/></a>
-&nbsp;
-<a href = 'https://www.instagram.com/sharath_1007'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a>
-&nbsp;
-<a href = 'https://www.swiftundergrads.ga'> <img width = "40" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/site.png"/></a>
-&nbsp;
-<a href = 'https://www.youtube.com/channel/UCSdthXAKgdyz8l5HKeIV28Q'> <img width = "50" height= "40" alt="react" src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/youtube.png"/></a>
-&nbsp;
-<br>
-
