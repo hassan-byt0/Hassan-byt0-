@@ -53,6 +53,10 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" alt="react" width="40" height="40"/> </a>
+&nbsp;
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" alt="react" width="40" height="40"/> </a>
+&nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/vscode.png" alt="react" width="40" height="40"/> </a>
