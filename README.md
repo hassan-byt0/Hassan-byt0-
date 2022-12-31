@@ -43,17 +43,17 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" alt="react" width="55" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" alt="react" width="55" height="40"/> </a>
 &nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=sql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" alt="react" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" alt="react" width="30" height="40"/> </a>
 &nbsp;
