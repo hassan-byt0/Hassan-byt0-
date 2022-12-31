@@ -1,7 +1,6 @@
 
-## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/sohamdave08/master/coder.png" width="50px"> , I am <<a href='https://soham-dave08.web.app/'>Soham Dave</a>/></h1>
+## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h1 align="center">Hi 👋, I'm Sharath Pai!</h1>
 <h3 align="center">Passionate about exploring the software industry!!</h3>
 
 <p align='center'>
@@ -47,7 +46,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="65" height="60" padding="10"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=sql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
 &nbsp;
