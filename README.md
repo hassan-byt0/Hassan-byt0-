@@ -37,25 +37,27 @@ Fun Fact: I love to guide rather than teaching! 😉
 </h2>
 
 <p align = 'center'>
-<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" alt="react" width="40" height="40"/> </a>
+<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" alt="react" width="40" height="40"/> </a>
+<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" width="40" height="40"/> </a>
 &nbsp;
-<a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" alt="react" width="40" height="40"/> </a>
+<a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" alt="react" width="55" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="55" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=sql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="react" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=sql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" alt="react" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" alt="react" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" alt="react" width="30" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" width="40" height="40"/> </a>
+&nbsp;
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
 &nbsp;
 </p>
 
