@@ -70,7 +70,7 @@ Fun Fact: I love to guide rather than teaching! 😉
   </a>
 </p>
   
-<p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p> <br> 
+<p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
-<p align= "center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight" /></p><br>
+<p align= "center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight" /></p>
   
