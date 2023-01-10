@@ -64,8 +64,14 @@ Fun Fact: I love to guide rather than teaching! 😉
     Github Stats &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-generator/main/github-cat.gif" width = 32px>
 </h2>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharath1036&show_icons=true&locale=en&layout=compact" alt="Sharath1036" /></p>
-<br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharath1036&show_icons=true&locale=en" alt="Sharath1036" /></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&" alt="Sharath1036" /></p>
+<p align="center">
+  <a href="https://github.com/Sharath1036">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&theme=dark&hide_border=true"/>
+  </a>
+</p>
+  
+  | ![Nihal GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight) |
+  
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&" alt="Sharath1036" /></p>
+
+| --- | --- |
