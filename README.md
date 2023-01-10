@@ -21,11 +21,11 @@
     About Me
 </h2>
 
-I'm an aspiring developer from India who loves exploring and gaining knowledge regarding various development fields and working on them. I'm also a graphic designer currently working with a couple of socities by helping them with all the digital creatives.
+I'm a Frontend Developer and a Graphic Designer who is passionate and purposeful about learning a new skill. I love exploring various development domains and work on them as freelance projects or for self-skill development.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering, graduating in May 2024 and currently exploring the domain of cross platform app development.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend and Database Development.
 
-Looking forward to contribute towards Open Source Projects. You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
+You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
 Fun Fact: I love to guide rather than teaching! 😉
 
