@@ -64,6 +64,8 @@ Fun Fact: I love to guide rather than teaching! 😉
     Github Stats &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-generator/main/github-cat.gif" width = 32px>
 </h2>
 
-| ![Sharath's Github Stats](https://github-readme-stats.vercel.app/api?username=Sharath1036&show_icons=true&theme=radical) | ![Sharath's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&theme=radical) |
-|---|---|
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sharath1036&show_icons=true&locale=en&layout=compact" alt="Sharath1036" /></p>
+<br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sharath1036&show_icons=true&locale=en" alt="Sharath1036" /></p>
+<br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&" alt="Sharath1036" /></p>
