@@ -70,7 +70,7 @@ Fun Fact: I love to guide rather than teaching! 😉
   </a>
 </p>
   
-  | ![Nihal GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight) |
+  | ![Sharath's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) <br> ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight) |
   
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&" alt="Sharath1036" /></p>
 
