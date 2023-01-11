@@ -21,7 +21,7 @@
     About Me
 </h2>
 
-I'm a Frontend Developer and a Graphic Designer who loves designing and building new stuff and is passionate in exploring various ddomains.
+I'm a Frontend Developer and a Graphic Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend and Database Development.
 
