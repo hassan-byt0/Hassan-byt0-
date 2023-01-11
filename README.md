@@ -12,6 +12,10 @@
   <a href='https://www.linkedin.com/in/sharathpai107/' target="_blank">
       <img src='https://img.shields.io/badge/-SharathPai-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sharathpai107/'>
   </a>
+  
+  <a href='https://www.instagram.com/sharath_1007/' target="_blank">
+      <img src='https://img.shields.io/badge/-sharath_1007-0072b1?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sharath_1007/'>
+  </a>
 
  
 
