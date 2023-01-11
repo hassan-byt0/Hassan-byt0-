@@ -17,7 +17,7 @@
 
 [![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
 
-<h2>
+<h2 align="center">
     About Me
 </h2>
 
