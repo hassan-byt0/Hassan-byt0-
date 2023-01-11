@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Passionate about exploring the software industry!!</h3>
+<h3 align="center">UI/UX and Graphic Designer | Frontend Developer </h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -21,7 +21,7 @@
     About Me
 </h2>
 
-I'm a Frontend Developer and a Graphic Designer who is passionate and purposeful about learning a new skill. I love exploring various development domains and work on them as freelance projects or for self-skill development.
+I'm a Frontend Developer and a Graphic Designer who loves designing and building new stuff and is passionate in exploring various ddomains.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend and Database Development.
 
