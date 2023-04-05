@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">UI/UX and Graphic Designer | Frontend Developer </h3>
+<h3 align="center">UI/UX and Graphic Designer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -50,8 +50,6 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="40" height="40"/> </a>
-&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="50" height="40"/> </a>
 &nbsp;  
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
@@ -60,7 +58,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/flutter.png" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/rprogramming.png" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
 &nbsp;
