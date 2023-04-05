@@ -25,9 +25,9 @@
     About Me
 </h2>
 
-I'm a Frontend Developer and a Graphic Designer who loves designing and building new stuff and is passionate about exploring various domains.
+I'm a UI/UX and Graphic Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend and Database Development.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Machine Learning.
 
 You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
