@@ -54,8 +54,9 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
 <br/>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
+&nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="40" height="40"/> </a>
@@ -68,6 +69,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
+<br/>
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
 &nbsp;
 </p>
