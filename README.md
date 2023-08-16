@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a FrontEnd Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
+I'm a Front End Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Back End Development.
 
