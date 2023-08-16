@@ -22,7 +22,7 @@
 [![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
 
 <h2 align="center">
-    About Me
+    ABOUT ME
 </h2>
 
 I'm a FrontEnd Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
@@ -36,7 +36,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 
 <h2 align = 'center'>
-   Tech Skills \& Tools &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+   MY TECH BAG &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
 <p align = 'center'>
