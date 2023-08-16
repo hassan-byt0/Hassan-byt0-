@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">UI/UX Designer | ML Engineer</h3>
+<h3 align="center">Front End Developer | UI/UX Designer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -25,9 +25,9 @@
     About Me
 </h2>
 
-I'm a UI/UX and Graphic Designer who loves designing and building new stuff and is passionate about exploring various domains.
+I'm a FrontEnd Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Machine Learning.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Back End Development.
 
 You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
@@ -36,7 +36,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 
 <h2 align = 'center'>
-   Tech Skills &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+   Tech Skills \& Tools &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 </h2>
 
 <p align = 'center'>
@@ -46,9 +46,16 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" width="40" height="40"/> </a>
 &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/rprogramming.png" width="40" height="40"/> </a>
+&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="55" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javaScript.png" width="40" height="40"/> </a>
+&nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="50" height="40"/> </a>
 &nbsp;  
@@ -56,9 +63,9 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/git.png" width="30" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/rprogramming.png" width="40" height="40"/> </a>
+<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
 &nbsp;
