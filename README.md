@@ -40,15 +40,15 @@ Fun Fact: I love to guide rather than teaching! 😉
 </h2>
 
 <p align = 'center'>
-<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" width="40" height="40"/> </a>
+<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" width="35" height="40"/> </a>
 &nbsp;
-<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" width="40" height="40"/> </a>
+<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" width="35" height="40"/> </a>
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/rprogramming.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="55" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="50" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="40" height="40"/> </a>
 &nbsp;
@@ -59,6 +59,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="40" height="40"/> </a>
 &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/nodejs.png" width="40" height="40"/> </a>
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="40" height="40"/> </a>
 &nbsp;  
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
@@ -67,9 +68,10 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/git.png" width="40" height="40"/> </a>
 &nbsp;
+<br/>
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
-<br/>
+
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
 &nbsp;
 </p>
