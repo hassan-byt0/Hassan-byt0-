@@ -57,10 +57,10 @@ Fun Fact: I love to guide rather than teaching! 😉
 <br/>
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
 &nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="40" height="40"/> </a>
+<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="45" height="45"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/nodejs.png" width="55" height="40"/> </a>
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/nodejs.png" width="55" height="45"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="45" height="45"/> </a>
 &nbsp;  
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
 &nbsp;
@@ -79,12 +79,6 @@ Fun Fact: I love to guide rather than teaching! 😉
     GITHUB STATS &nbsp; <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-generator/main/github-cat.gif" width = 32px>
 </h2>
 
-<p align="center">
-  <a href="https://github.com/Sharath1036">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sharath1036&theme=dark&hide_border=true"/>
-  </a>
-</p>
-  
 <p align= "center"><img src= "https://github-readme-stats.vercel.app/api?username=Sharath1036&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></p>
 
 <p align= "center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Sharath1036&count_private=true&theme=tokyonight" /></p>
