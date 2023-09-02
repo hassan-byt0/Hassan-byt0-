@@ -54,6 +54,8 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/git.png" width="40" height="40"/> </a>
 &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/handlebars.png" width="40" height="40"/> </a>
+&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="50" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png" width="40" height="40"/> </a>
