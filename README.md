@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">MERN Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a MERN Stack Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
+I'm a Full Stack Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Back End Development.
 
