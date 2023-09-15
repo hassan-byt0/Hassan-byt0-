@@ -44,8 +44,6 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" width="35" height="40"/> </a>
 &nbsp;
-<a> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cpp.png" width="35" height="40"/> </a>
-&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="35" height="40"/> </a>
 &nbsp;
 <a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/expressjs.svg" width="40" height="40"/> </a>
@@ -60,11 +58,9 @@ Fun Fact: I love to guide rather than teaching! 😉
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png" width="40" height="40"/> </a>
 &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mySQL.png" width="40" height="40"/> </a>
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mongodb.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/nodejs.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=php&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/php.png" width="45" height="45"/> </a>
 &nbsp;
 <a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" width="40" height="40"/> </a>
 &nbsp;
@@ -73,8 +69,6 @@ Fun Fact: I love to guide rather than teaching! 😉
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
 &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/wordpress.png" width="40" height="40"/> </a>
 &nbsp;
 </p>
 
