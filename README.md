@@ -35,41 +35,23 @@ Fun Fact: I love to guide rather than teaching! 😉
 
 
 
-<h2 align = 'center'>
-   MY TECH BAG &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
-</h2>
-
-<p align = 'center'>
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/bootstrap.png" width="45" height="40"/> </a>
-&nbsp;
-<a href= "https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/cprogramming.png" width="35" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/css.png" width="35" height="40"/> </a>
-&nbsp;
-<a> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/expressjs.svg" width="40" height="40"/> </a>
-&nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/figma.png" width="30" height="40"/> </a>
-&nbsp;
-<a> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/git.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/handlebars.png" width="45" height="40" margin="0"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/html.png" width="50" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/javascript.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/mongodb.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/nodejs.png" width="40" height="40"/> </a>
-&nbsp;
-<a href = "https://github.com/Sharath1036?tab=repositories&q=&type=&language=python&sort="> <img src = "https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/python.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/rprogramming.png" width="45" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="> <img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/react.png" width="40" height="40"/> </a>
-&nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="> <img src ="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" width="40" height="40"/> </a>
-&nbsp;
+<h2 align='center'> MY TECH BAG  &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p align='center'>
+<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> &nbsp;  
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/></a> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a> &nbsp;
+<img src="https://snehasish.dev/techstack/express.svg" alt="express" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;  
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/></a> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a> &nbsp;  
+<img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="><img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="solidity" width="40" height="40"/></a> &nbsp;
+<br>
 </p>
 
 <h2 align = 'center'>
