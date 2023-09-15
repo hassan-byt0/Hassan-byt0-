@@ -27,7 +27,7 @@
 
 I'm a Full Stack Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Back End Development.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend Development.
 
 You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
@@ -47,6 +47,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/></a> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;    
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
