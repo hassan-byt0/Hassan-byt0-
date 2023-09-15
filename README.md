@@ -47,7 +47,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
 <img src="https://snehasish.dev/techstack/express.svg" alt="express" width="40" height="40"/> &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/handlebars.png" alt="handlebars" width="40" height="40"/></a> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;      
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
