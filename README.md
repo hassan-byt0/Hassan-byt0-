@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Full Stack Developer | UI/UX Designer</h3>
+<h3 align="center">Full Stack Developer | ML Engineer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -25,9 +25,9 @@
     ABOUT ME
 </h2>
 
-I'm a Full Stack Developer and UI/UX Designer who loves designing and building new stuff and is passionate about exploring various domains.
+I'm a Full Stack Developer and ML Engineer who loves building websites and analyse data and is passionate about exploring various domains.
 
-I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Backend Development.
+I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering and currently exploring the domain of Machine Learning.
 
 You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
 
@@ -48,7 +48,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
 <img src="https://snehasish.dev/techstack/express.svg" alt="express" width="40" height="40"/> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp;
+<!--<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;      
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
