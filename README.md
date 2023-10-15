@@ -17,6 +17,10 @@
       <img src='https://img.shields.io/badge/-sharath_1007-0072b1?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/sharath_1007/'>
   </a>
 
+ <a href='https://www.twitter.com/Sharath1072/' target="_blank">
+      <img src='https://img.shields.io/twitter/follow/Sharath1072?label=Sharath%20P&labelColor=white&color=black&link=https://www.twitter.com/Sharath1072/'>
+  </a>
+
  
 
 [![Github](https://img.shields.io/github/followers/Sharath1036?label=Follow&style=social)](https://github.com/Sharath1036)
