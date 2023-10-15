@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a Full Stack Developer who loves building websites and a ML Engineer driven by data, algorithms and provide analytical business solutions. I want to expand my knowledge in future in the field of App Development and Blockchain, Cyber Security.
+I'm a Full Stack Developer who loves building websites and a ML Engineer driven by data, algorithms and provide analytical business solutions. In future, I would love to expand my knowledge in the field of App Development and Blockchain, Cyber Security.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering.
 
@@ -46,7 +46,7 @@ Fun Fact: I love to guide rather than teaching! 😉
 <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/> &nbsp;
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="node" width="40" height="40"/> &nbsp;
-<img src="https://icons8.com/icon/kg46nzoJrmTR/express-js" alt="express" width="40" height="40"/> &nbsp;
+<img src="https://icons8.com/icon/PZQVBAxaueDJ/express-js" alt="express" width="40" height="40"/>&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
 <!--<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;   
