@@ -25,7 +25,7 @@
     ABOUT ME
 </h2>
 
-I'm a Full Stack Developer who loves building websites and a ML Engineer driven by data, algorithms and provide analytical business solutions.
+I'm a Full Stack Developer who loves building websites and a ML Engineer driven by data, algorithms and providing analytical business solutions.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering.
 
