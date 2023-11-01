@@ -1,7 +1,7 @@
 
 ## <h1 align=center>Hello <img src="https://raw.githubusercontent.com/Sharath1036/Sharath1036/main/coder.png" width="50px"> , I am Sharath Pai</h1>
 
-<h3 align="center">Full Stack Developer | ML Engineer</h3>
+<h3 align="center">Web Developer | ML Engineer</h3>
 
 <p align='center'>
   <a href='mailto:sharathpai107@gmail.com' target="_blank">
@@ -29,7 +29,7 @@
     ABOUT ME
 </h2>
 
-I'm a Full Stack Developer who loves building websites and a ML Engineer driven by data, algorithms and providing analytical business solutions.
+I'm a Web Developer who loves building websites and a ML Engineer driven by data, algorithms and providing analytical business solutions.
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering.
 
