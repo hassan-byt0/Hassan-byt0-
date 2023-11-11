@@ -38,6 +38,7 @@ Feel free to reach out to me through any of my social handles mentioned!
 <h2 align='center'> MY TECH BAG  &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align='center'>
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/></a> &nbsp;
+<img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>&nbsp;    
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a> &nbsp;
 <!-- <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="><img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="solidity" width="40" height="40"/></a> &nbsp;   -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> &nbsp;
