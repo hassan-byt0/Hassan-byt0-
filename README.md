@@ -33,17 +33,13 @@ I'm a Front End Developer who loves building websites and a ML Engineer driven b
 
 I'm pursuing my BTech in Electronics and Communication from D.J. Sanghvi College of Engineering.
 
-You can talk to me about Graphic Design and Software Development domains. Feel free to reach out to me through any of my social handles mentioned!
-
-Fun Fact: I love to guide rather than teaching! 😉
-
-
+Feel free to reach out to me through any of my social handles mentioned!
 
 <h2 align='center'> MY TECH BAG  &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align='center'>
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=c&sort="><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="c" width="40" height="40"/></a> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=r&sort="><img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/></a> &nbsp;
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="><img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="solidity" width="40" height="40"/></a> &nbsp;  
+<!-- <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=solidity&sort="><img src="https://raw.githubusercontent.com/Sharath1036/readme-icon-gen/main/solidity.png" alt="solidity" width="40" height="40"/></a> &nbsp;   -->
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=html&sort="><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/></a> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=css&sort="><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/></a> &nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=javascript&sort="><img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="javascript" width="40" height="40"/></a> &nbsp;
@@ -53,11 +49,15 @@ Fun Fact: I love to guide rather than teaching! 😉
 <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express" width="40" height="40"/>&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
 <!--<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;   
-<img src="https://img.icons8.com/material-rounded/48/ff0000/keras.png" width="45" height="45" alt="keras"/> &nbsp;
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp; 
+
+<!-- Data Science -->  
+<img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="40" height="40"/> &nbsp; 
+<img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="40" height="40"/> &nbsp; 
+<img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> &nbsp;
+<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="40" height="40"/> &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> &nbsp;
 <br>
 </p>
 
