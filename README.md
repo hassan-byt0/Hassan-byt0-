@@ -53,7 +53,7 @@ Feel free to reach out to me through any of my social handles mentioned!
 <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="40" height="40"/> &nbsp; 
 <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="40" height="40"/> &nbsp; 
 <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="60" height="40"/> &nbsp; 
+<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="70" height="40"/> &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
 <br>
