@@ -49,13 +49,11 @@ Feel free to reach out to me through any of my social handles mentioned!
 <img src="https://img.icons8.com/ios/50/ffffff/express-js.png" alt="express" width="40" height="40"/>&nbsp;
 <a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=handlebars&sort="><img src="https://www.vectorlogo.zone/logos/handlebarsjs/handlebarsjs-icon.svg" alt="handlebars" width="40" height="40"/></a> &nbsp;
 <!--<img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> &nbsp; -->
-<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp; 
-
-<!-- Data Science -->  
+<a href="https://github.com/Sharath1036?tab=repositories&q=&type=&language=tsql&sort="><img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/></a> &nbsp;  
 <img src="https://img.icons8.com/color/48/numpy.png" alt="numpy" width="40" height="40"/> &nbsp; 
 <img src="https://img.icons8.com/color/48/pandas.png" alt="pandas" width="40" height="40"/> &nbsp; 
 <img src="https://seeklogo.com/images/S/seaborn-logo-244EB2DEC5-seeklogo.com.png" alt="seaborn" width="40" height="40"/> &nbsp;
-<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="40" height="40"/> &nbsp; 
+<img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="sklearn" width="60" height="40"/> &nbsp; 
 <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> &nbsp;  
 <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> &nbsp;
 <br>
