@@ -17,7 +17,13 @@
     ABOUT ME
 </h2>
 
-Testing 
+I am a 3rd year student from MEMS dep. at IIT Bombay.
+
+I'm deeply interested in artificial general intelligence and its development, and for that, I have been learning and working on a few projects based on basic ML and DL like Implementing Blinds and experimenting with GANs and so on.
+
+Currently, I'm learning about Neuro-symbolic programming, which combines neural nets with symbolic programming involving a basic logic approach, and also reading a paper on psychoanalytical-based AI.
+
+
 
 <h2 align='center'> MY TECH BAG  &nbsp; <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <p align='center'>
