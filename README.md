@@ -1,10 +1,10 @@
 
-## <h1 align=center> "Welcome to Byte Zone,Fellows "</h1>
+## <h1 align=center> "Welcome to Byte Zone,fellows "</h1>
 
 <h4 align="center">
-  Myself M. Hassan shaikh,
+  Myself: M. Hassan shaikh,
   
-  An AI Developer/ Researcher 
+  An AI Developer/ Researcher.
 </h4>
 
 <p align='center'>
