@@ -23,7 +23,7 @@
 
 I am a third-year student in the MEMS department at IIT Bombay.
 
-My profound interest lies in artificial general intelligence (AGI) and its development. To pursue this passion, I have been actively engaged in learning and working on various projects related to basic machine learning(ML) and deep learning(DL). Some of my endeavors include implementing blinds and conducting experiments with Generative Adversarial Networks (GANs).
+My profound interest lies in artificial general intelligence (AGI) and its development. To pursue this passion, I have been actively engaged in learning and working on various projects related to basic machine learning(ML) and deep learning(DL). Some of my endeavors include implementing BKinds and conducting experiments with Generative Adversarial Networks (GANs).
 
 Currently, I am delving into the realm of Neuro-symbolic programming, a field that amalgamates neural networks with symbolic programming, incorporating a foundational logic approach. Additionally, I am immersing myself in the study of a paper that explores psychoanalytical-based AI.
 
