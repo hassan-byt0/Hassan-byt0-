@@ -21,7 +21,7 @@
     ABOUT ME
 </h2>
 
-I am a 4th-year Dual Degree student at IIT Bombay, specializing in Metallurgy and Material Science with dual minors in AI & DS and Computer Science.
+I am a 4th-year Dual Degree student at IIT Bombay, specializing in Material Science with dual minors in AI & DS and Computer Science.
 
 With experience as an AI researcher and developer, I have worked on RAG, agentic workflows, and audio generation. My contributions include publications such as  a Nano Energy Journal publication focused on gesture recognition and pulse detection for medical applications and an IEEE conference paper on predictive ML for educational decisions.
 
