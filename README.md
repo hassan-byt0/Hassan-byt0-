@@ -1,10 +1,10 @@
 
-## <h1 align=center> "Welcome to Byte Zone,fellows "</h1>
+## <h1 align=center> "Welcome to Byte Zone"</h1>
 
 <h4 align="center">
   Myself: M. Hassan shaikh,
   
-  An AI Developer/ Researcher.
+  Aspiring AI research scientist
 </h4>
 
 <p align='center'>
@@ -21,11 +21,13 @@
     ABOUT ME
 </h2>
 
-I am a third-year student in the MEMS department at IIT Bombay.
+I am a 4th-year Dual Degree student at IIT Bombay, specializing in Metallurgy and Material Science with dual minors in AI & DS and Computer Science.
 
-My profound interest lies in artificial general intelligence (AGI) and its development. To pursue this passion, I have been actively engaged in learning and working on various projects related to basic machine learning(ML) and deep learning(DL). Some of my endeavors include implementing BKinds and conducting experiments with Generative Adversarial Networks (GANs).
+With experience as an AI researcher and developer, I have worked on RAG, agentic workflows, and audio generation. My contributions include publications such as  a Nano Energy Journal publication focused on gesture recognition and pulse detection for medical applications and IEEE conference paper on predictive ML for educational decisions.
 
-Currently, I am delving into the realm of Neuro-symbolic programming, a field that amalgamates neural networks with symbolic programming, incorporating a foundational logic approach. Additionally, I am immersing myself in the study of a paper that explores psychoanalytical-based AI.
+Proficient in machine learning, deep learning, computer vision, and Generative AI, I have also explored the integration of AI with computer graphics, Graphical neural nets, and reinforcement learning.
+
+<!-- Currently, I am delving into the realm of Neuro-symbolic programming, a field that amalgamates neural networks with symbolic programming, incorporating a foundational logic approach. Additionally, I am immersing myself in the study of a paper that explores psychoanalytical-based AI. -->
 
 Explore my repositories at your leisure, and don't hesitate to connect with me through the provided social handles :)
 
